@@ -1,0 +1,37 @@
+.menor {
+	height: 30px;
+	width: 200px;
+	text-align: center;
+	background: white;
+border: 2px dashed black;
+margin: 5px 80px;
+
+}
+
+.mayor {
+	height: 50px;
+	width: 300px;
+	background: pink;
+	
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin: 20px 10px;
+	border-left: 5px;
+	border-right: 5px;
+	border-top: 10px;
+	border-bottom: 10px;
+	border-color: #9900ff;
+	border-style: solid;
+	
+}
+
+p {
+	margin-bottom: 4px;
+	margin-top: 6px;
+	font: 14px Sans-Serif;
+	color: red;
+}
+
+
+
+
